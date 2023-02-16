@@ -43,8 +43,7 @@
   	</distributionManagement>
 	
 	<pluginRepositories>
-	     <pluginRepository>
-		<version>2.8.1</version>     
+	     <pluginRepository>    
 		<id>maven1</id>
 		<name>Maven.org</name>
 		<url>http://repo1.maven.org/maven2</url>
